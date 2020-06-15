@@ -3,29 +3,12 @@
 						*Overview*
 *******************************************************************************
 
-* Tutorial 1 & 2 & Video lecture 1:		
-* Dataset:	sample3.dta	
+* Tutorial 1-7		
 * Author: Reinhard Rebernig				        
-* Tutor: Mario Gonzalez-Sauri / MGS /
 * Data courtesy of UNU-MERIT
 * OS: Windows
 * Stata Version: 16 
-* Mail:	Tutor mail: gonzalez@merit.unu.edu
-* Revsion:  0001 Last change: 15/05/20 by Reinhard Rebernig
-
-
-*******************************************************************************
-******** INTRODUCTION TO DATA SCIENCE AND STATISTICS **************************
-						*Content*
-*******************************************************************************
-
-*34 Tutorial 1
-*65 Video Lecture 1
-*219 Tutorial 2
-*392 Lecture 2
-*416 Tutorial 3
-*467 Video Lecture 2
-*739 Tutorial 4
+* Revsion:  0007 Last change: 15/05/20 by Reinhard Rebernig
 
 
 *******************************************************************************
