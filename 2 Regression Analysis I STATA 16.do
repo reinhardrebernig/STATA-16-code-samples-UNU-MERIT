@@ -3,7 +3,8 @@
 						*Overview*
 *******************************************************************************
 
-* Tutorial 1-6 notes		
+* Tutorial 1-6 notes
+* Topics: OLS with one and multiple regressors, interaction terms, polynomial and logarithimic transformations
 * Author: Reinhard Rebernig				        
 * Data courtesy of UNU-MERIT
 * OS: Windows
